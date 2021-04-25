@@ -172,6 +172,9 @@ p{
     color: #312a26;
     text-transform: uppercase;
 }
+.section-header h2:hover{
+    text-shadow: 4px 4px 6px #c7a17a;
+}
 .section-header hr{
     background-color: #c7a17a;
     height: 2px;
